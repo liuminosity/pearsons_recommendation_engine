@@ -1,0 +1,3 @@
+/server/node_modules
+/server/src/recommendation_service/data/original
+/server/recommendation_service.sqlite
